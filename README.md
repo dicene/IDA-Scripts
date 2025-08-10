@@ -7,7 +7,7 @@ Replaces the default displayhook with a new version that displays numbers in hex
 ### [UpdateSelectedStrings.py](https://github.com/dicene/IDA-Scripts/blob/main/UpdateSelectedStrings.py)
 Registers a Hotkey to Shift+A that attempts to automatically rename all strings in your current selection based on their text content, and attempts to automatically translate Japanese text to English string names via GoogleTranslator.
 ### [idapythonrc.py](https://github.com/dicene/IDA-Scripts/blob/main/idapythonrc.py)
-My version of the script that IDA automatically runs upon opening. Adds a bunch of convenience functions defaults the console to Python.
+A script that IDA automatically runs upon opening (if placed in the appropriate folder). Adds a bunch of convenience functions and defaults the console to Python.
 
 ## Oblivion Remaster specific
 ### [RenameFunctionsFromCommandNames.py](https://github.com/dicene/IDA-Scripts/blob/main/Oblivion%20Remastered/RenameFunctionsFromCommandNames.py)
